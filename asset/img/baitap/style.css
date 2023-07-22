@@ -1,0 +1,60 @@
+body{
+    font-family: Tahoma;
+    font-size: 20px;
+    width: 1000px;
+    margin: 0px auto;
+   
+}
+
+#banner{
+    background-color: red;
+    height:auto;
+    width:100px;
+
+
+}
+#main #left{
+    font-size: 20px;
+    width: 850px;
+    background-color:white;
+    float: left;
+    min-height: 300px;
+
+}
+#main #right{
+    width: 150px;
+    background-color:antiquewhite;
+    float: left;
+    min-height: 300px;
+}
+#footer{
+ background-color:white;
+ width: 1000px;
+ text-align: center;
+ height:160px;
+ color:antiquewhite;
+ clear:left;
+ line-height: 160px;
+}
+#banner #img{
+width: 1000px;
+height:150px;
+}
+#footer ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+#footer ul li{
+    list-style-type:none;
+    float:left;
+}
+#footer ul li a{
+    text-decoration: none;
+     line-height: 40px;
+    
+  padding: 0px 10px 0px;
+
+  text-align: end;
+ }
+

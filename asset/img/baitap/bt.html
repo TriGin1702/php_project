@@ -1,0 +1,73 @@
+<html>
+    <head><title>web</title></head>
+<script language="JavaScript">
+function check(){
+    var num="";
+    var a;
+    a=form1.text1.value;
+    
+     if(a==num)
+     {
+         alert("khong the bo trong");
+     }
+     else
+     {
+     alert(a);
+     }
+}
+
+
+
+</script>    
+       
+    <body>
+        <form id="form1" name="form1" method="post" action="">
+            <p>
+              <label for="textfield"></label>Họ và tên
+        
+            <input type="text" name="text1" id="textfield" />
+
+            </p>
+            <p>
+                <label for="textfield2"></label> Địa chỉ
+          
+              <input type="text" name="text2" id="textfield2" />
+              
+              </p>
+
+              <label>Giới Tính
+                <p>
+                <input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_1" />
+                nam</label>
+                </p>
+              <p>
+              <label>
+                <input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_2" />
+                nu</label>
+              </p>
+              <br />
+              <p>
+                <label for="textfield3"></label> ngành học
+          
+              <input type="text" name="text3" id="textfield3" />
+              
+              </p>
+              <p>
+                <label for="textfield2"></label> Môn đăng kí học
+          </p>
+              <input type="text" name="text3" id="textfield3" />
+              <p>
+              <input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_3" />
+              Tiếng Anh</label>
+            </p>
+            <label>
+                <p>
+              <input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_4" />
+              Tiếng Việt</label>
+            </p>
+            <p>
+              <input type="button" name="button" id="button" value="check" onclick="check()" />
+            </p>
+              
+    </body>
+</html>
