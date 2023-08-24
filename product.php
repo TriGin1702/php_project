@@ -45,10 +45,14 @@
                         <li class="header_qr-set header_navbar-list-item">
                             kết nối với cửa hàng ^o^
                             <div class="header_qr">
-                                <img src="./asset/img/d91264e165ed6facc6178994d5afae79.png" alt="QR code" class="header_qr-img">
+                                <img src="./asset/img/d91264e165ed6facc6178994d5afae79.png" alt="QR code"
+                                    class="header_qr-img">
                                 <div class="header_qr-apps">
-                                    <a href="https://www.niemvuilaptrinh.com/article/Su-dung-hinh-anh-va-lien-ket"><img src="./asset/img/f4f5426ce757aea491dce94201560583.png" alt="ch play" class="header_qr-chp"></a>
-                                    <img src="./asset/img/39f189e19764dab688d3850742f13718.png" alt="app store" class="header_qr-as">
+                                    <a href="https://www.niemvuilaptrinh.com/article/Su-dung-hinh-anh-va-lien-ket"><img
+                                            src="./asset/img/f4f5426ce757aea491dce94201560583.png" alt="ch play"
+                                            class="header_qr-chp"></a>
+                                    <img src="./asset/img/39f189e19764dab688d3850742f13718.png" alt="app store"
+                                        class="header_qr-as">
                                 </div>
                             </div>
                         </li>
@@ -63,7 +67,7 @@
                             </a>
                         </li>
                     </ul>
-    
+
                     <ul class="header_navbar-list">
                         <li class="header_navbar-list-item header_notify-show">
                             <a href="" class="header_navbar-list-link">
@@ -74,38 +78,54 @@
                                 <h3>Thông báo mới nhận</h3>
                                 <ul class="header_notify-list">
                                     <li class="header_notify-item">
-                                        <a href="https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane" class="header_notify-link">
-                                            <img src="https://i.ytimg.com/vi/GnQUqrsfE_4/sddefault.jpg" alt="" class="header_notify-img">
+                                        <a href="https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane"
+                                            class="header_notify-link">
+                                            <img src="https://i.ytimg.com/vi/GnQUqrsfE_4/sddefault.jpg" alt=""
+                                                class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">kei-chan</span>
-                                                <span class="header_notify-description">Kaguya-sama wa Kokurasetai series. She is the younger sister of Miyuki Shirogane</span>
+                                                <span class="header_notify-description">Kaguya-sama wa Kokurasetai
+                                                    series. She is the younger sister of Miyuki Shirogane</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://oregairu.fandom.com/wiki/Yukino_Yukinoshita" class="header_notify-link">
-                                            <img src="https://shareitnow.b-cdn.net/wp-content/uploads/2021/02/Yukino-Yukinoshita-quotes-768x432.jpg" alt="" class="header_notify-img">
+                                        <a href="https://oregairu.fandom.com/wiki/Yukino_Yukinoshita"
+                                            class="header_notify-link">
+                                            <img src="https://shareitnow.b-cdn.net/wp-content/uploads/2021/02/Yukino-Yukinoshita-quotes-768x432.jpg"
+                                                alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">yukinoshita</span>
-                                                <span class="header_notify-description">Yukino Yukinoshita (雪ノ下 雪乃 Yukinoshita Yukino) is the deuteragonist of Yahari Ore no Seishun Love Come wa Machigatteiru. She is a student of Class 2J of Sobu High School and the founding president of the Service Club.</span>
+                                                <span class="header_notify-description">Yukino Yukinoshita (雪ノ下 雪乃
+                                                    Yukinoshita Yukino) is the deuteragonist of Yahari Ore no Seishun
+                                                    Love Come wa Machigatteiru. She is a student of Class 2J of Sobu
+                                                    High School and the founding president of the Service Club.</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://inuyasha.fandom.com/wiki/Kiky%C5%8D" class="header_notify-link">
-                                            <img src="https://sc01.alicdn.com/kf/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa/223361048/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa.jpg_.webp" alt="" class="header_notify-img">
+                                        <a href="https://inuyasha.fandom.com/wiki/Kiky%C5%8D"
+                                            class="header_notify-link">
+                                            <img src="https://sc01.alicdn.com/kf/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa/223361048/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa.jpg_.webp"
+                                                alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">kikyo</span>
-                                                <span class="header_notify-description">Kikyō (桔梗, "Chinese Bellflower") was a shrine priestess who lived 50 years prior to the main events of the series. She was responsible for purifying the Shikon Jewel and was the former lover of Inuyasha</span>
+                                                <span class="header_notify-description">Kikyō (桔梗, "Chinese Bellflower")
+                                                    was a shrine priestess who lived 50 years prior to the main events
+                                                    of the series. She was responsible for purifying the Shikon Jewel
+                                                    and was the former lover of Inuyasha</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://otakustore.vn/date-a-live-tokisaki-kurumi-new-year-cheongsam-ver-apex-toy.html" class="header_notify-link">
+                                        <a href="https://otakustore.vn/date-a-live-tokisaki-kurumi-new-year-cheongsam-ver-apex-toy.html"
+                                            class="header_notify-link">
                                             <img src="./asset/img/kurumi.jpg" alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">Kurumi</span>
-                                                <span class="header_notify-description">Date A Live - Tokisaki Kurumi New Year Cheongsam Ver (APEX-TOY), Thời gian phát hành: Tháng 10 năm 2021</span>
+                                                <span class="header_notify-description">Date A Live - Tokisaki Kurumi
+                                                    New Year Cheongsam Ver (APEX-TOY), Thời gian phát hành: Tháng 10 năm
+                                                    2021</span>
                                             </div>
                                         </a>
                                     </li>
@@ -121,8 +141,10 @@
                                 <span class="help">trợ giúp</span>
                             </a>
                         </li>
-                        <li class="header_navbar-list-item" onclick="showSuccessToast1()">đăng ký</li>
-                        <li class="header_navbar-list-item " onclick="showSuccessToast2()">đăng nhập</li>
+                        <li class="header_navbar-list-item" onclick="<?php header('location: dangky.php') ?>">đăng ký
+                        </li>
+                        <li class="header_navbar-list-item " onclick="<?php header('location: dangnhap.php') ?>">đăng
+                            nhập</li>
                     </ul>
                 </nav>
                 <div class="header-with-search">
@@ -133,7 +155,8 @@
                     </div>
                     <div class="header-with-search_input">
                         <div class="header-with-sr-wrap">
-                            <input name="searchitem" type="text" placeholder="nhập để tìm kiếm" class="header-with-search_input-text" id="search"></input>
+                            <input name="searchitem" type="text" placeholder="nhập để tìm kiếm"
+                                class="header-with-search_input-text" id="search"></input>
                         </div>
                         <div class="header-with-search-option">
                             <span class="header-with-search-option-label">tìm kiếm trang</span>
@@ -150,9 +173,9 @@
                             </ul>
                         </div>
                         <button name="btnfind" class="header-with-search-btn">
-                                <a href="product.php?&id=<?php echo $_SESSION['id']; ?>"></a>
-                                <i class="header-with-search-btn-icon fas fa-search"></i>
-                            </button>
+                            <a href="product.php?&id=<?php echo $_SESSION['id']; ?>"></a>
+                            <i class="header-with-search-btn-icon fas fa-search"></i>
+                        </button>
                     </div>
                     <div class="header-with-search_icon2">
                         <div class="header_all-cart">
@@ -162,8 +185,8 @@
                             <div class="header_cart-list header_cart-list-nocart">
                                 <img src="./asset/img/tải xuống.png" alt="" class="header_cart-nocart-img">
                                 <span class="header_cart-nocart-msg">
-                                        chưa có sản phẩm
-                                    </span>
+                                    chưa có sản phẩm
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -315,32 +338,35 @@
                     <div class="grid__column-10">
                         <div class="home-filter">
                             <span class="home-filter_label">đề cử ngẫu nhiên</span>
-    
+
                         </div>
                         <div class="home-product" id="toast3">
                             <div class="grid__row">
                                 <div class="grid__column-10">
                                     <div class="product-style-base">
                                         <div class="product-style">
-                                            <img src="./image/<?php echo $row['image'];?>" alt="" class="font-prodcut-img">
+                                            <img src="./image/<?php echo $row['image'];?>" alt=""
+                                                class="font-prodcut-img">
                                         </div>
                                         <div class="font-product">
                                             <ul class="font-product-list-info">
-                                                    <li class="font-product-info1"><?php echo $row['prd_name'];?></li>
-                                                    <li class="font-product-info1">số lượng sản phẩm: <?php echo $row['quantity'];?></li>
-                                                    <li class="font-product-info1"><?php echo $row['description'];?></li>
-                                                    <li class="font-product-info1"><?php echo $row['price'];?></li>
-                                                    <li class="font-product-info1"><?php echo $row['brand_name'];?></li>
-                                                    <li class="font-product-info2">
-                                                        <button class="btn-buy" onclick="tru()">-</button>
-                                                        <input id="quantity2"></input>
-                                                        <button class="btn-buy" onclick="add()">+</button>
-                                                    </li>
-                                                    <li class="font-product-info2">
-                                                        <button id="quantity" onclick="remake();showSuccessToast()">thêm vào giỏ hàng</button>
-                                                    </li>
+                                                <li class="font-product-info1"><?php echo $row['prd_name'];?></li>
+                                                <li class="font-product-info1">số lượng sản phẩm:
+                                                    <?php echo $row['quantity'];?></li>
+                                                <li class="font-product-info1"><?php echo $row['description'];?></li>
+                                                <li class="font-product-info1"><?php echo $row['price'];?></li>
+                                                <li class="font-product-info1"><?php echo $row['brand_name'];?></li>
+                                                <li class="font-product-info2">
+                                                    <button class="btn-buy" onclick="tru()">-</button>
+                                                    <input id="quantity2"></input>
+                                                    <button class="btn-buy" onclick="add()">+</button>
+                                                </li>
+                                                <li class="font-product-info2">
+                                                    <button id="quantity" onclick="remake();showSuccessToast()">thêm vào
+                                                        giỏ hàng</button>
+                                                </li>
                                             </ul>
-    
+
                                         </div>
                                     </div>
                                 </div>

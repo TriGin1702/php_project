@@ -25,7 +25,7 @@
             }
         }
     }
-?>  
+?>
 <!DOCTYPE html>
 <html>
 
@@ -57,10 +57,14 @@
                         <li class="header_qr-set header_navbar-list-item">
                             kết nối với cửa hàng ^o^
                             <div class="header_qr">
-                                <img src="./asset/img/d91264e165ed6facc6178994d5afae79.png" alt="QR code" class="header_qr-img">
+                                <img src="./asset/img/d91264e165ed6facc6178994d5afae79.png" alt="QR code"
+                                    class="header_qr-img">
                                 <div class="header_qr-apps">
-                                    <a href="https://www.niemvuilaptrinh.com/article/Su-dung-hinh-anh-va-lien-ket"><img src="./asset/img/f4f5426ce757aea491dce94201560583.png" alt="ch play" class="header_qr-chp"></a>
-                                    <img src="./asset/img/39f189e19764dab688d3850742f13718.png" alt="app store" class="header_qr-as">
+                                    <a href="https://www.niemvuilaptrinh.com/article/Su-dung-hinh-anh-va-lien-ket"><img
+                                            src="./asset/img/f4f5426ce757aea491dce94201560583.png" alt="ch play"
+                                            class="header_qr-chp"></a>
+                                    <img src="./asset/img/39f189e19764dab688d3850742f13718.png" alt="app store"
+                                        class="header_qr-as">
                                 </div>
                             </div>
                         </li>
@@ -75,7 +79,7 @@
                             </a>
                         </li>
                     </ul>
-    
+
                     <ul class="header_navbar-list">
                         <li class="header_navbar-list-item header_notify-show">
                             <a href="" class="header_navbar-list-link">
@@ -86,38 +90,54 @@
                                 <h3>Thông báo mới nhận</h3>
                                 <ul class="header_notify-list">
                                     <li class="header_notify-item">
-                                        <a href="https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane" class="header_notify-link">
-                                            <img src="https://i.ytimg.com/vi/GnQUqrsfE_4/sddefault.jpg" alt="" class="header_notify-img">
+                                        <a href="https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Kei_Shirogane"
+                                            class="header_notify-link">
+                                            <img src="https://i.ytimg.com/vi/GnQUqrsfE_4/sddefault.jpg" alt=""
+                                                class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">kei-chan</span>
-                                                <span class="header_notify-description">Kaguya-sama wa Kokurasetai series. She is the younger sister of Miyuki Shirogane</span>
+                                                <span class="header_notify-description">Kaguya-sama wa Kokurasetai
+                                                    series. She is the younger sister of Miyuki Shirogane</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://oregairu.fandom.com/wiki/Yukino_Yukinoshita" class="header_notify-link">
-                                            <img src="https://shareitnow.b-cdn.net/wp-content/uploads/2021/02/Yukino-Yukinoshita-quotes-768x432.jpg" alt="" class="header_notify-img">
+                                        <a href="https://oregairu.fandom.com/wiki/Yukino_Yukinoshita"
+                                            class="header_notify-link">
+                                            <img src="https://shareitnow.b-cdn.net/wp-content/uploads/2021/02/Yukino-Yukinoshita-quotes-768x432.jpg"
+                                                alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">yukinoshita</span>
-                                                <span class="header_notify-description">Yukino Yukinoshita (雪ノ下 雪乃 Yukinoshita Yukino) is the deuteragonist of Yahari Ore no Seishun Love Come wa Machigatteiru. She is a student of Class 2J of Sobu High School and the founding president of the Service Club.</span>
+                                                <span class="header_notify-description">Yukino Yukinoshita (雪ノ下 雪乃
+                                                    Yukinoshita Yukino) is the deuteragonist of Yahari Ore no Seishun
+                                                    Love Come wa Machigatteiru. She is a student of Class 2J of Sobu
+                                                    High School and the founding president of the Service Club.</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://inuyasha.fandom.com/wiki/Kiky%C5%8D" class="header_notify-link">
-                                            <img src="https://sc01.alicdn.com/kf/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa/223361048/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa.jpg_.webp" alt="" class="header_notify-img">
+                                        <a href="https://inuyasha.fandom.com/wiki/Kiky%C5%8D"
+                                            class="header_notify-link">
+                                            <img src="https://sc01.alicdn.com/kf/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa/223361048/HTB1mbn_LpXXXXXOXXXXq6xXFXXXa.jpg_.webp"
+                                                alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">kikyo</span>
-                                                <span class="header_notify-description">Kikyō (桔梗, "Chinese Bellflower") was a shrine priestess who lived 50 years prior to the main events of the series. She was responsible for purifying the Shikon Jewel and was the former lover of Inuyasha</span>
+                                                <span class="header_notify-description">Kikyō (桔梗, "Chinese Bellflower")
+                                                    was a shrine priestess who lived 50 years prior to the main events
+                                                    of the series. She was responsible for purifying the Shikon Jewel
+                                                    and was the former lover of Inuyasha</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="header_notify-item">
-                                        <a href="https://otakustore.vn/date-a-live-tokisaki-kurumi-new-year-cheongsam-ver-apex-toy.html" class="header_notify-link">
+                                        <a href="https://otakustore.vn/date-a-live-tokisaki-kurumi-new-year-cheongsam-ver-apex-toy.html"
+                                            class="header_notify-link">
                                             <img src="./asset/img/kurumi.jpg" alt="" class="header_notify-img">
                                             <div class="header_notify-info">
                                                 <span class="header_notify-name">Kurumi</span>
-                                                <span class="header_notify-description">Date A Live - Tokisaki Kurumi New Year Cheongsam Ver (APEX-TOY), Thời gian phát hành: Tháng 10 năm 2021</span>
+                                                <span class="header_notify-description">Date A Live - Tokisaki Kurumi
+                                                    New Year Cheongsam Ver (APEX-TOY), Thời gian phát hành: Tháng 10 năm
+                                                    2021</span>
                                             </div>
                                         </a>
                                     </li>
@@ -134,7 +154,8 @@
                             </a>
                         </li>
                         <a class="header_navbar-list-item" href="dangky.php"><?php echo $dk ?></a>
-                        <a class="header_navbar-list-item " href="dangnhap.php"  onclick="showSuccessToast2()"><?php echo $dn ?></a>
+                        <a class="header_navbar-list-item " href="dangnhap.php"
+                            onclick="showSuccessToast2()"><?php echo $dn ?></a>
                     </ul>
                 </nav>
                 <div class="header-with-search">
@@ -145,7 +166,8 @@
                     </div>
                     <div class="header-with-search_input">
                         <div class="header-with-sr-wrap">
-                            <input name="searchitem" type="text" placeholder="nhập để tìm kiếm" class="header-with-search_input-text" id="search"></input>
+                            <input name="searchitem" type="text" placeholder="nhập để tìm kiếm"
+                                class="header-with-search_input-text" id="search"></input>
                         </div>
                         <div class="header-with-search-option">
                             <span class="header-with-search-option-label">tìm kiếm trang</span>
@@ -161,17 +183,17 @@
                                 </li>
                             </ul>
                         </div>
-                            <button name="btnfind" class="header-with-search-btn">
-                                <a href="product.php?&id=<?php echo $idsp;?>"></a>
-                                <i class="header-with-search-btn-icon fas fa-search"></i>
-                            </button>
+                        <button name="btnfind" class="header-with-search-btn">
+                            <a href="product.php?&id=<?php echo $idsp;?>"></a>
+                            <i class="header-with-search-btn-icon fas fa-search"></i>
+                        </button>
                     </div>
                     <div class="header-with-search_icon2">
                         <a href="danhsachsp.php">
                             <div class="header_all-cart">
-                                    <label for="numbercart"></label>
-                                    <input class="header-cart2" id="numbercart"></input>
-                                    <i class="header-cart fas fa-cart-arrow-down"></i>
+                                <label for="numbercart"></label>
+                                <input class="header-cart2" id="numbercart"></input>
+                                <i class="header-cart fas fa-cart-arrow-down"></i>
                             </div>
                         </a>
                     </div>
@@ -338,21 +360,22 @@
                             <div class="grid__row">
                                 <?php 
                                     while($row = mysqli_fetch_assoc($query)){?>
-                                        <div class="grid__column-2">
-                                            <div class="home-product-list">
-                                                <a href="product.php?&id=<?php echo $row['prd_id']; ?>" class="">
-                                                    <img class="home-product_img1" src="image/<?php echo $row['image'];?>">
-                                                    <h4>sản phẩm số lượng là: <?php echo $row['quantity'];?>
-                                                        , với thương hiệu quen thuộc và nổi tiếng: <?php echo $row['brand_name']; ?>
-                                                    </h4>
-                                                </a>
-                                                <button class="btn-cart-add" name="btn-cart-add" id="btn-cart-add" >
-                                                    <i  class="fas fa-cart-plus"></i>
-                                                </button>
-                                                <div class="product-price"><?php echo $row['price'];?></div>
-                                            </div>
-                                        </div>
-                                <?php   }   ?>            
+                                <div class="grid__column-2">
+                                    <div class="home-product-list">
+                                        <a href="product.php?&id=<?php echo $row['prd_id']; ?>" class="">
+                                            <img class="home-product_img1" src="image/<?php echo $row['image'];?>">
+                                            <h4>sản phẩm số lượng là: <?php echo $row['quantity'];?>
+                                                , với thương hiệu quen thuộc và nổi tiếng:
+                                                <?php echo $row['brand_name']; ?>
+                                            </h4>
+                                        </a>
+                                        <button class="btn-cart-add" name="btn-cart-add" id="btn-cart-add">
+                                            <i class="fas fa-cart-plus"></i>
+                                        </button>
+                                        <div class="product-price"><?php echo $row['price'];?></div>
+                                    </div>
+                                </div>
+                                <?php   }   ?>
                             </div>
                         </div>
                     </div>
@@ -360,21 +383,25 @@
             </div>
         </div>
         <table class="news">
-            <div class="font-size-info"><b>Top những hãng figure chất lượng và uy tín nhất mà cửa hàng đã liên kết:</b></div>
+            <div class="font-size-info"><b>Top những hãng figure chất lượng và uy tín nhất mà cửa hàng đã liên kết:</b>
+            </div>
             <div class="grid__row_x2">
                 <div class="grid__column-3">
                     <a href="https://www.bandai.com/" class="link-news link-news2">
                         <img src="./asset/img/Bandai_Namco_Holdings_logo.svg.png" alt="" class="news-img">
                         <div class="news-list-info">
-                            <span class="news-info">Tập đoàn Bandai Namco là nhà sản xuất đồ chơi lớn thứ ba thế giới 
-                                (sau Mattel và Hasbro của Mỹ) và tập đoàn này sở hữu và phân phối một số lượng đáng kể giấy phép cho đồ chơi 
+                            <span class="news-info">Tập đoàn Bandai Namco là nhà sản xuất đồ chơi lớn thứ ba thế giới
+                                (sau Mattel và Hasbro của Mỹ) và tập đoàn này sở hữu và phân phối một số lượng đáng kể
+                                giấy phép cho đồ chơi
                             </span>
                         </div>
                         <div class="bignews">
                             <img src="./asset/img/Bandai_Namco_Holdings_logo.svg.png" alt="" class="news-img2">
                             <div class="news-list-info2">
-                                <span class="news-info2">Tập đoàn Bandai Namco là nhà sản xuất đồ chơi lớn thứ ba thế giới 
-                                    (sau Mattel và Hasbro của Mỹ) và tập đoàn này sở hữu và phân phối một số lượng đáng kể giấy phép cho đồ chơi 
+                                <span class="news-info2">Tập đoàn Bandai Namco là nhà sản xuất đồ chơi lớn thứ ba thế
+                                    giới
+                                    (sau Mattel và Hasbro của Mỹ) và tập đoàn này sở hữu và phân phối một số lượng đáng
+                                    kể giấy phép cho đồ chơi
                                 </span>
                             </div>
                         </div>
@@ -384,15 +411,18 @@
                     <a href="https://www.1999.co.jp/eng/list/409/0/1" class="link-news link-news2">
                         <img src="./asset/img/megah.png" alt="" class="news-img">
                         <div class="news-list-info">
-                            <span class="news-info">Được thành lập vào năm 1962, MegaHouse là viết tắt của “Make, Enjoy, Global, Ability” 
-                                và hãng sản xuất Figure được biết đến nhiều nhất với nhiều loạt phim “Look Up Figures”. 
+                            <span class="news-info">Được thành lập vào năm 1962, MegaHouse là viết tắt của “Make, Enjoy,
+                                Global, Ability”
+                                và hãng sản xuất Figure được biết đến nhiều nhất với nhiều loạt phim “Look Up Figures”.
                             </span>
                         </div>
                         <div class="bignews">
                             <img src="./asset/img/megah.png" alt="" class="news-img2">
                             <div class="news-list-info2">
-                                <span class="news-info2">Được thành lập vào năm 1962, MegaHouse là viết tắt của “Make, Enjoy, Global, Ability” 
-                                    và hãng sản xuất Figure được biết đến nhiều nhất với nhiều loạt phim “Look Up Figures”. 
+                                <span class="news-info2">Được thành lập vào năm 1962, MegaHouse là viết tắt của “Make,
+                                    Enjoy, Global, Ability”
+                                    và hãng sản xuất Figure được biết đến nhiều nhất với nhiều loạt phim “Look Up
+                                    Figures”.
                                 </span>
                             </div>
                         </div>
@@ -402,15 +432,17 @@
                     <a href="https://www.goodsmile.info/en/releaseinfo" class="link-news link-news2">
                         <img src="./asset/img/company.png" alt="" class="news-img">
                         <div class="news-list-info">
-                            <span class="news-info">chủ yếu được biết đến với loạt Action Figure Nendoroid, 
-                                đặc biệt là có một số điểm cử động khớp cũng như vài phiên bản của mặt và phụ kiện, để cho phép người chơi thay đổi các biểu cảm và tạo các cảnh tượng khác nhau.
+                            <span class="news-info">chủ yếu được biết đến với loạt Action Figure Nendoroid,
+                                đặc biệt là có một số điểm cử động khớp cũng như vài phiên bản của mặt và phụ kiện, để
+                                cho phép người chơi thay đổi các biểu cảm và tạo các cảnh tượng khác nhau.
                             </span>
                         </div>
                         <div class="bignews">
                             <img src="./asset/img/company.png" alt="" class="news-img2">
                             <div class="news-list-info2">
-                                <span class="news-info2">chủ yếu được biết đến với loạt Action Figure Nendoroid, 
-                                    đặc biệt là có một số điểm cử động khớp cũng như vài phiên bản của mặt và phụ kiện, để cho phép người chơi thay đổi các biểu cảm và tạo các cảnh tượng khác nhau. 
+                                <span class="news-info2">chủ yếu được biết đến với loạt Action Figure Nendoroid,
+                                    đặc biệt là có một số điểm cử động khớp cũng như vài phiên bản của mặt và phụ kiện,
+                                    để cho phép người chơi thay đổi các biểu cảm và tạo các cảnh tượng khác nhau.
                                 </span>
                             </div>
                         </div>
@@ -420,15 +452,17 @@
                     <a href="https://en.kotobukiya.co.jp/information/" class="link-news link-news2">
                         <img src="./asset/img/KotobukiyaLogo.png" alt="" class="news-img">
                         <div class="news-list-info">
-                            <span class="news-info">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại, 
-                                cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
+                            <span class="news-info">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại,
+                                cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street
+                                Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
                             </span>
                         </div>
                         <div class="bignews">
                             <img src="./asset/img/KotobukiyaLogo.png" alt="" class="news-img2">
                             <div class="news-list-info2">
-                                <span class="news-info2">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại, 
-                                    cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
+                                <span class="news-info2">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại,
+                                    cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc
+                                    Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
                                 </span>
                             </div>
                         </div>
@@ -438,15 +472,17 @@
                     <a href="https://en.wikipedia.org/wiki/" class="link-news link-news2">
                         <img src="./asset/img/kaiyodo.jpg" alt="" class="news-img">
                         <div class="news-list-info">
-                            <span class="news-info">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại, 
-                                cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
+                            <span class="news-info">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại,
+                                cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street
+                                Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
                             </span>
                         </div>
                         <div class="bignews">
                             <img src="./asset/img/kaiyodo.jpg" alt="" class="news-img2">
                             <div class="news-list-info2">
-                                <span class="news-info2">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại, 
-                                    cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
+                                <span class="news-info2">Kotobukiya là một hãng sản xuất Figure rất đa dạng chủng loại,
+                                    cung cấp một loạt những tựa Anime và nhân vật được biết đến như Hatsune Miku hoặc
+                                    Street Fighter, Marvel, DC hoặc thậm chí Freddy Vs Jason và Star Wars.
                                 </span>
                             </div>
                         </div>

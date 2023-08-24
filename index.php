@@ -1,12 +1,10 @@
 <?php
     require 'config/db.php';
     session_start();
-    if (!isset($_SESSION['txtName'])) {
-	    header('location: admin.php');
-    }
 ?>
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,12 +17,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    
+
     <title>Document</title>
 </head>
+
 <body>
     <?php
-        if(isset($_GET['page_layout'])){
+        if(isset($_GET['page_layout'])&& ($_SESSION['taikhoan'] =='minhtri1702') && ($_SESSION['password'] =='gin230695')){
             switch ($_GET['page_layout']) {
                 case 'danhsach':
                     require_once 'sanpham/danhsach.php';
@@ -47,8 +46,9 @@
             }
         }
         else{
-            require_once 'sanpham/danhsach.php';
+            require_once 'admin.php';
         }
     ?>
 </body>
+
 </html>
